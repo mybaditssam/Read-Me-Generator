@@ -31,3 +31,6 @@ This is a class project, contributions are currently not accepted. It was made b
 
 ## Questions
 For additional questions, you can reach out to me on github or send an email to shernandez@econnect.eco
+
+## Video Sample
+https://github.com/mybaditssam/Read-Me-Generator/assets/127529427/e05e1021-af56-4668-aa91-1653a18725a4
