@@ -34,3 +34,7 @@ For additional questions, you can reach out to me on github or send an email to 
 
 ## Video Sample
 https://github.com/mybaditssam/Read-Me-Generator/assets/127529427/e05e1021-af56-4668-aa91-1653a18725a4
+
+## Screenshots
+<img width="2235" alt="Screenshot 2023-06-26 at 9 45 44 AM" src="https://github.com/mybaditssam/Read-Me-Generator/assets/127529427/f087946c-19d0-4f36-8952-ae53b03bf964">
+<img width="1338" alt="Screenshot 2023-06-26 at 9 45 51 AM" src="https://github.com/mybaditssam/Read-Me-Generator/assets/127529427/dfa97fb0-56fb-44d8-b8a7-963abbb97808">
